@@ -6,8 +6,11 @@ This project conducted a comprehensive analysis of Blinkit's sales data. It invo
 ## Requirements
 ### KPIs
 • Total Sales: Overall revenue generated.
+
 • Average Sales: Revenue per sale.
+
 • Number of Items: Total items sold.
+
 • Average Rating: Customer rating for items.
 
 ### Charts
