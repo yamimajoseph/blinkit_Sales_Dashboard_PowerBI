@@ -4,13 +4,13 @@ This project conducted a comprehensive analysis of Blinkit's sales data. It invo
 ![Screenshot (31)](https://github.com/user-attachments/assets/9ac3ad44-4a34-4aaf-a853-337ec5f65842)
 
 ## Requirements
-KPIs
-Total Sales: Overall revenue generated.
-Average Sales: Revenue per sale.
-Number of Items: Total items sold.
-Average Rating: Customer rating for items.
+### KPIs
+• Total Sales: Overall revenue generated.
+• Average Sales: Revenue per sale.
+• Number of Items: Total items sold.
+• Average Rating: Customer rating for items.
 
-Charts
+### Charts
 1. Total Sales by Fat Content: Analyze the impact of fat content on total sales, including additional KPI metrics. 
 2. Total Sales by Item Type: Identify top-performing item types, including additional KPI metrics.
 3. Total Sales by Outlet: Compare sales across outlets by fat content.
@@ -19,7 +19,7 @@ Charts
 6. Sales by Outlet Location: Assess geographic sales distribution. 
 7. All Metrics by Outlet Type: Provide a comprehensive view of key metrics by outlet type.
 
-##Summary of Findings
+## Summary of Findings
 
 • Total sales reached $1.20M with an average sale of $141, encompassing 8553 items and an average customer rating of 3.9.
 
